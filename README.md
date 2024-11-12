@@ -5,7 +5,7 @@ Bem-vindo ao meu pedaço do Git
 Bem... Sou uma pessoa otimista, aventureira e sempre de olho em um novo desafio. Adoro aprender coisas novas e prefiro um mundo em movimento, nada de ficar parado!
 Curiosidade é o que me move, então estou sempre buscando me questionar, aprender, conversar e interagir com gente nova.
 
-💼 Atualmente trabalho em escalas (dias livres e outras parcialmente livres), então tenho bastante tempo para me dedicar ao mundo TI... Deve ta perguntando o que você faz né?
+💼 Atualmente trabalho em escalas (dias livres e outros parcialmente livres), então tenho bastante tempo para me dedicar ao mundo TI... Deve ta perguntando o que você faz né?
 Trabalho como servidor público 👮‍♂️, mas estou fazendo uma transição para o mundo da tecnologia e do desenvolvimento, quero mesclar e aproveitar meu tempo livre para isso, uma boa né?!
 Já fui gerente administrativo por quase uma década em uma Cooperativa(tô falando sério, viu!), então organização e planejamento fazem parte do meu kit.
 
