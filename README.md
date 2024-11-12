@@ -14,7 +14,7 @@ Já fui gerente administrativo por quase uma década em uma Cooperativa(tô fala
 💡 Atualmente:
 - Estou desenvolvendo projetos em C e fazendo experimentos com tecnologia na facul.
 - Criando um site para uma empresa de engenharia civil (sim, a coisa tá séria!)
-- Explorando através de cursos extra faculdade, entre eles já fiz: Designer(figma), front-end, back-end, etc etc.. A hora de aprender tudo é agora né?!
+- Explorando através de cursos extra faculdade, entre eles já fiz: Designer(figma), front-end, back-end, etc etc.. A hora de aprender tudo é agora né?! Já sou quase um Full Stack! SQN 😂😂😂
 
 Se você curte trocar ideias ou está em busca de gente interessada em TI, me manda uma mensagem!
 
