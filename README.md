@@ -13,9 +13,10 @@ Já fui gerente administrativo por quase uma década em uma Cooperativa, então 
 🎓 Agora, estou focado nos estudos de Análise e Desenvolvimento de Sistemas (UNIVICOSA) e imergindo neste mundo fantástico da programação.
 
 💡 Atualmente:
-- Estou desenvolvendo projetos em C e fazendo experimentos com tecnologia na facul.
-- Criando um site para uma empresa de engenharia civil (sim, a coisa tá séria!)
-- Explorando através de cursos extra faculdade, entre eles já fiz: Designer(figma), front-end, back-end, etc etc.. A hora de aprender tudo é agora né?! Já sou quase um Full Stack! SQN 😂😂😂
+- Estou desenvolvendo projetos e trabalhos que são propostos nas disciplinas da facul.
+- Criando um site para uma empresa de engenharia civil (sim, a coisa tá séria!).
+- Tenho gostado de ler alguns livros da área de tecnologia para agregar conhecimento.
+- Explorando e aprendendo através de cursos extra faculdade que comprei, entre eles já fiz: Designer(figma), front-end, back-end, etc etc.. A hora de aprender tudo é agora né?!
 
 Se você curte trocar ideias ou está em busca de gente interessada em TI, me manda uma mensagem!
 
