@@ -7,7 +7,8 @@ Curiosidade é o que me move, então estou sempre buscando me questionar, aprend
 
 💼 Atualmente trabalho em escalas (dias livres e outros parcialmente livres), então tenho bastante tempo para me dedicar ao mundo TI... Deve ta perguntando o que você faz né?
 Trabalho como servidor público 👮‍♂️, mas estou fazendo uma transição para o mundo da tecnologia e do desenvolvimento, quero mesclar e aproveitar meu tempo livre para isso, uma boa né?!
-Já fui gerente administrativo por quase uma década em uma Cooperativa(tô falando sério, viu!), então organização e planejamento fazem parte do meu kit.
+
+Já fui gerente administrativo por quase uma década em uma Cooperativa, então organização, planejamento e reuniões, muitas reuniõesss... é algo que convivi por muito tempo, durante essa experiência tive oportunidade de trabalhar com várias pessoas e equipes, me sinto muito grato por essa expriência profissional.
 
 🎓 Agora, estou focado nos estudos de Análise e Desenvolvimento de Sistemas (UNIVICOSA) e imergindo neste mundo fantástico da programação.
 
