@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu pedaço do Git
 
-Bem... Sou uma pessoa otimista, aventureira e sempre de olho em um novo desafio. Adoro aprender coisas novas e prefiro um mundo em movimento, nada de ficar parado!
+Adoro aprender coisas novas e prefiro um mundo em movimento, nada de ficar parado!
 Curiosidade é o que me move, então estou sempre buscando me questionar, aprender, conversar e interagir com pessoas.
 
 💼 Atualmente trabalho em escalas (dias livres e outros parcialmente livres), então tenho bastante tempo para me dedicar ao mundo TI... Deve ta perguntando o que você faz né?
