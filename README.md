@@ -5,10 +5,9 @@ Bem-vindo ao meu pedaço do Git
 Adoro aprender coisas novas e prefiro um mundo em movimento, nada de ficar parado!
 Curiosidade é o que me move, então estou sempre buscando me questionar, aprender, conversar e interagir com pessoas.
 
-💼 Atualmente trabalho em escalas (dias livres e outros parcialmente livres), então tenho bastante tempo para me dedicar ao mundo TI... Deve ta perguntando o que você faz né?
-Trabalho como servidor público 👮‍♂️, mas estou fazendo uma transição para o mundo da tecnologia e do desenvolvimento, quero mesclar e aproveitar meu tempo livre para isso, uma boa né?!
+💼 Atualmente trabalho como servidor público 👮‍♂️, mas estou fazendo uma transição para o mundo da tecnologia e do desenvolvimento, algo que sempre gostei e percebi o quanto estou gostando em voltar aos estudos e dedicar horas do meu dia para isso.
 
-Já fui gerente administrativo por quase uma década em uma Cooperativa, então organização, planejamento e reuniões, muitas reuniõesss... é algo que convivi por muito tempo, durante essa experiência tive oportunidade de trabalhar com várias pessoas e equipes, me sinto muito grato por essa expriência profissional.
+Já fui gerente administrativo por quase uma década em uma Cooperativa, então organização, planejamento, projetos e reuniões... é algo que convivi por muito tempo, durante essa experiência tive oportunidade de trabalhar com várias pessoas e equipes, me sinto muito grato por essa expriência profissional.
 
 
 Se você curte trocar ideias ou está em busca de gente interessada em TI, me manda uma mensagem!
