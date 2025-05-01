@@ -9,6 +9,17 @@ Curiosidade é o que me move, então estou sempre buscando me questionar, aprend
 
 Já fui gerente administrativo por quase uma década em uma Cooperativa, então organização, planejamento, projetos e reuniões... é algo que convivi por muito tempo, durante essa experiência tive oportunidade de trabalhar com várias pessoas e equipes, me sinto muito grato por essa expriência profissional.
 
+🖥️Atualmente estou aprendendo e desenvolvendo habilidades em:
+-HTML5, CSS3 e JavaScript
+-Bootstrap
+-PHP e MySQL
+-Git e GitHub
+
+-Desenvolvimento Web Front-End e Back-End
+-Projetos Open Source
+-Design de Interfaces
+-Automação e APIs
+
 
 Se você curte trocar ideias ou está em busca de gente interessada em TI, me manda uma mensagem!
 
