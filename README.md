@@ -11,7 +11,7 @@ Curiosidade é o que me move, então estou sempre buscando me questionar, aprend
 <br />
 <br />
 <br />
-<p>🖥️**Atualmente estou aprendendo e desenvolvendo habilidades em:**</p>
+<p>🖥️** Atualmente estou aprendendo e desenvolvendo habilidades em: **</p>
 <p>-HTML5, CSS3 e JavaScript</p>
 <p>-Bootstrap</p>
 <p>-PHP e MySQL</p>
