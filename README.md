@@ -1,6 +1,6 @@
 # E aí, tudo bem? Prazer, meu nome é Felipe Carneiro 🐑!
 
-##Bem-vindo ao meu pedaço do Git
+## Bem-vindo ao meu pedaço do Git
 
 <p>Adoro aprender coisas novas e prefiro um mundo em movimento, nada de ficar parado!
 Curiosidade é o que me move, então estou sempre buscando me questionar, aprender, conversar e interagir com pessoas.</p>
