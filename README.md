@@ -1,27 +1,26 @@
 # E aí, tudo bem? Prazer, meu nome é Felipe Carneiro 🐑!
 
-Bem-vindo ao meu pedaço do Git
+##Bem-vindo ao meu pedaço do Git
 
-Adoro aprender coisas novas e prefiro um mundo em movimento, nada de ficar parado!
-Curiosidade é o que me move, então estou sempre buscando me questionar, aprender, conversar e interagir com pessoas.
+<p>Adoro aprender coisas novas e prefiro um mundo em movimento, nada de ficar parado!
+Curiosidade é o que me move, então estou sempre buscando me questionar, aprender, conversar e interagir com pessoas.</p>
 
-💼 Atualmente trabalho como servidor público 👮‍♂️, mas estou fazendo uma transição para o mundo da tecnologia e do desenvolvimento, algo que sempre gostei e percebi o quão me fez bem voltar aos estudos e dedicar horas do meu dia para isso.
+<p>💼 Atualmente trabalho como servidor público 👮‍♂️, mas estou fazendo uma transição para o mundo da tecnologia e do desenvolvimento, algo que sempre gostei e percebi o quão me fez bem voltar aos estudos e dedicar horas do meu dia para isso.</p>
 
-Já fui gerente administrativo por quase uma década em uma Cooperativa, então organização, planejamento, projetos e reuniões... é algo que convivi por muito tempo, durante essa experiência tive oportunidade de trabalhar com várias pessoas e equipes, me sinto muito grato por essa expriência profissional.
+<p>Já fui gerente administrativo por quase uma década em uma Cooperativa, então organização, planejamento, projetos e reuniões... é algo que convivi por muito tempo, durante essa experiência tive oportunidade de trabalhar com várias pessoas e equipes, me sinto muito grato por essa expriência profissional.</p>
 
 
 
-🖥️Atualmente estou aprendendo e desenvolvendo habilidades em: 
--HTML5, CSS3 e JavaScript
--Bootstrap
--PHP e MySQL
--Git e GitHub
+<p>🖥️Atualmente estou aprendendo e desenvolvendo habilidades em:</p>
+<p>-HTML5, CSS3 e JavaScript</p>
+<p>-Bootstrap</p>
+<p>-PHP e MySQL</p>
+<p>-Git e GitHub</p>
 
--Desenvolvimento Web Front-End e Back-End
--Projetos Open Source
--Design de Interfaces
--Automação e APIs
-
+<p>-Desenvolvimento Web Front-End e Back-End</p>
+<p>-Projetos Open Source</p>
+<p>-Design de Interfaces</p>
+<p>-Automação e APIs</p>
 
 Se você curte trocar ideias ou está em busca de gente interessada em TI, me manda uma mensagem!
 
