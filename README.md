@@ -1,11 +1,11 @@
-# E aí, tudo bem? Sou o Felipe Carneiro 🐑, um "Desenvolvedor" em constante "desenvolvimento"!!!
+<h1><strong> E aí, tudo bem? Sou o Felipe Carneiro 🐑, um "Desenvolvedor" em constante "desenvolvimento"!!! </strong></h1>
 
-## Bem-vindo ao meu pedaço do Git
+<h2><strong> Bem-vindo ao meu pedaço do Git </strong></h2>
 
 <p>Adoro aprender coisas novas e prefiro um mundo em movimento, nada de ficar parado!
 Curiosidade é o que me move, então estou sempre buscando me questionar, aprender, conversar e interagir com pessoas.</p>
 
-<p>💼 Atualmente trabalho como servidor público 👮‍♂️, mas estou fazendo uma transição para o mundo da tecnologia e do desenvolvimento, algo que sempre gostei e percebi o quão me fez bem voltar aos estudos e dedicar horas do meu dia para isso.</p>
+<p> Atualmente trabalho como servidor público 👮‍♂️, mas estou fazendo uma transição para o mundo da tecnologia e do desenvolvimento, algo que sempre gostei e percebi o quão me fez bem voltar aos estudos e dedicar horas do meu dia para isso.</p>
 
 <p>Já fui gerente administrativo por quase uma década em uma Cooperativa, então organização, planejamento, projetos e reuniões... é algo que convivi por muito tempo, durante essa experiência tive oportunidade de trabalhar com várias pessoas e equipes, me sinto muito grato por essa expriência profissional.</p>
 <br />
@@ -30,8 +30,6 @@ Se você curte trocar ideias ou está em busca de gente interessada em TI, me ma
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![Felipe Carneiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipe-Carneiro89&show_icons=true&theme=dracula)
-
-<a href="[https://instagram.com/dicasparadevs](https://www.instagram.com/felipesgcarneiro/profilecard/?igsh=MW83OGVnMW1rY3gybw==)"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 
