@@ -1,4 +1,4 @@
-# E aí, tudo bem? Prazer, meu nome é Felipe Carneiro 🐑!
+# E aí, tudo bem? Prazer, meu nome é Felipe Carneiro 🐑, um DESENVOLVEDOR em constante DESENVOLVIMENTO !!!
 
 ## Bem-vindo ao meu pedaço do Git
 
@@ -27,6 +27,11 @@ Se você curte trocar ideias ou está em busca de gente interessada em TI, me ma
 
 [LinkedIn](https://linkedin.com/in/felipe-carneiro-5b6108302/) | [GitHub](https://github.com/Felipe-Carneiro89) | [Email](mailto:felipesgc@yahoo.com.br) | [Instagram](https://www.instagram.com/felipesgcarneiro/profilecard/?igsh=MW83OGVnMW1rY3gybw==)
 
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+
+![Felipe Carneiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipe-Carneiro89&show_icons=true&theme=dracula)
+
+<a href="[https://instagram.com/dicasparadevs](https://www.instagram.com/felipesgcarneiro/profilecard/?igsh=MW83OGVnMW1rY3gybw==)"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 
