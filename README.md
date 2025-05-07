@@ -1,4 +1,4 @@
-# E aí, tudo bem? Prazer, meu nome é Felipe Carneiro 🐑, um DESENVOLVEDOR em constante DESENVOLVIMENTO !!!
+# E aí, tudo bem? Prazer, meu nome é Felipe Carneiro 🐑, um "Desenvolvedor" em constante "desenvolvimento"!!!
 
 ## Bem-vindo ao meu pedaço do Git
 
