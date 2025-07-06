@@ -5,7 +5,9 @@
 <p>Adoro aprender coisas novas e prefiro um mundo em movimento, nada de ficar parado!
 Curiosidade é o que me move, então estou sempre buscando me questionar, aprender, conversar e interagir com pessoas.</p>
 
-<p> Atualmente trabalho como servidor público 👮‍♂️, mas estou fazendo uma transição para o mundo da tecnologia e do desenvolvimento, atuo como Gerente de Projetos - Scrum Master (TRAINEE) em uma empresa de tecnologia, ela desenvolve vários sistema, com foco maior em desenvolvimento web.</p>
+<p> Atualmente, atuo como servidor público, em paralelo à minha transição de carreira para a área de tecnologia. Estou em fase de desenvolvimento profissional como Gerente de Projetos - Scrum Master (Trainee) em uma empresa de tecnologia com foco em soluções web. Nesse contexto, colaboro com equipes multifuncionais utilizando metodologias ágeis, especialmente Scrum, para garantir a entrega contínua e incremental de sistemas. Essa experiência tem ampliado minha capacidade de gestão, organização de sprints, facilitação de cerimônias ágeis e apoio ao time no cumprimento dos objetivos de cada ciclo de desenvolvimento, venho gostando muito dessa experiência.</p>
+
+<p> Não vou parar por aí, desejo em um futuro próximo me tornar um desenvolvedor full stack.</p>
 
 <p>Já fui gerente administrativo por quase uma década em uma Cooperativa, então organização, planejamento, projetos e reuniões... é algo que convivi por muito tempo, durante essa experiência tive oportunidade de trabalhar com várias pessoas e equipes, me sinto muito grato por essa expriência profissional.</p>
 <br />
