@@ -1,4 +1,4 @@
-<h1><strong> E aí, tudo bem? Sou o Felipe Carneiro 🐑, um "Desenvolvedor" em constante "desenvolvimento"!!! </strong></h1>
+<h1><strong> E aí, tudo bem? Sou o Felipe Carneiro 🐑</strong></h1>
 
 <h2><strong> Bem-vindo ao meu pedaço do Git </strong></h2>
 
