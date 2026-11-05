@@ -1,20 +1,16 @@
-<h1><strong> E aí, tudo bem? Sou o Felipe Carneiro 🐑</strong></h1>
+<h1><strong>E aí, tudo bem? Sou Felipe Carneiro 🐑</strong></h1>
 
-<h2><strong> Bem-vindo ao meu pedaço do Git </strong></h2>
+<h2><strong>Bem-vindo ao meu espaço no Git!</strong></h2>
 
-<p>Adoro aprender coisas novas e prefiro um mundo em movimento, nada de ficar parado!
-Curiosidade é o que me move, então estou sempre buscando me questionar, aprender, conversar e interagir com pessoas.</p>
+<p>Sou movido pela curiosidade e pela vontade de aprender. Gosto de trocar ideias, conhecer pessoas e explorar novas formas de transformar desafios em oportunidades.</p>
 
-<p> Atualmente, atuo como servidor público, em paralelo à minha transição de carreira para a área de tecnologia. Atuei brevemente como Gerente de Projetos - Scrum Master (Trainee) em uma empresa de tecnologia com foco em soluções web e estou me aprofundando muito na área de dados, com foco em Business Intelligence. Nesse contexto, colaboro com equipes multifuncionais utilizando metodologias ágeis, para garantir a entrega contínua e incremental de sistemas, processo e serviços.</p>
+<p>Minha trajetória profissional me levou a tomar uma decisão importante: deixar a carreira no serviço público para seguir meu propósito na área de tecnologia. Hoje, atuo no setor e continuo investindo no meu desenvolvimento por meio de especializações, com foco em dados e Business Intelligence.</p>
 
-<p> Não vou parar por aí, desejo em um futuro bem próximo estar posicionado no mercado na área de dados.</p>
+<p>Também tive uma passagem como Gerente de Projetos e Scrum Master Trainee em uma empresa de soluções web, experiência que ampliou minha visão sobre metodologias ágeis, colaboração entre equipes e entrega de produtos e serviços. Venho atuando em uma empresa tech em sua expansão internacional e relacionamento com clientes e equipes de desenvolvimento.</p>
 
-<p>Já fui gerente administrativo por quase uma década em uma Cooperativa, então organização, planejamento, projetos e reuniões... é algo que convivi por muito tempo, durante essa experiência tive oportunidade de trabalhar com várias pessoas e equipes, me sinto muito grato por essa expriência profissional.</p>
-<br />
-<br />
-<br />
+<p>Antes da tecnologia, fui gerente administrativo em uma cooperativa por quase uma década. Essa experiência fortaleceu minhas habilidades em organização, planejamento, gestão de projetos e trabalho em equipe — aprendizados que levo comigo e aplico aos desafios da minha carreira em dados.</p>
 
-Se você curte trocar ideias ou está em busca de gente interessada em TI, me manda uma mensagem!
+<p>Por aqui, compartilho projetos, estudos e um pouco da minha jornada. Se você também gosta de tecnologia, dados e boas conversas, será um prazer trocar ideias!</p>
 
 
 [LinkedIn](https://linkedin.com/in/felipe-carneiro-5b6108302/) | [GitHub](https://github.com/Felipe-Carneiro89) | [Email](mailto:felipesgc@yahoo.com.br) | [Instagram](https://www.instagram.com/felipesgcarneiro/profilecard/?igsh=MW83OGVnMW1rY3gybw==)
